@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajit Mishra</h1>
 <h3 align="center">A passionate Full Stack Web-Developer from India</h3>
 
-- 🔭 I’m currently working in [LTIMindtree Ltd as a](Senior Software Engineer)
+- 🔭 I’m currently working in LTIMindtree Ltd as a Senior Software Engineer
 
 - 🌱 I’m currently learning **DevOps**
 
